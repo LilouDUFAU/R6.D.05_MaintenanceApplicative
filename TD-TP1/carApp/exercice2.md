@@ -25,3 +25,6 @@
     System.out.println("Couleur : " + couleur);
     System.out.println("Vitesse actuelle : " + vitesse);
 ```
+
+**2 - Installer le plugin CheckStyle**
+- Installation du plugin
