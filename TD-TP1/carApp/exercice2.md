@@ -28,3 +28,6 @@
 
 **2 - Installer le plugin CheckStyle**
 - Installation du plugin
+
+**3 - Paramétrer l’outil d’inspection de code**
+- Configuration du plugin
