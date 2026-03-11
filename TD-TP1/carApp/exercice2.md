@@ -31,3 +31,10 @@
 
 **3 - Paramétrer l’outil d’inspection de code**
 - Configuration du plugin
+
+**4 - Inspecter l’application avec CheckStyle et catégoriser les types d’erreurs identifiées, vérifier que cette analyse  concorde avec votre analyse**
+- Problèmes d'indentation
+- Commentaires manquants
+- Espaces manquants (1)
+
+Peu de ressemblance avec mon analyse
